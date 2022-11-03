@@ -15,6 +15,6 @@ How to Create Perfect Moving Platforms in Godot 3.1
 https://www.youtube.com/watch?v=mBNa8LcAsns
 
 ## Future Development
-Add more levels. As the player progresses, the platforms move faster so the player has less time to react. 
+In the future I want to add more levels. I want to have it so as the player progresses, the platforms move faster so the player has less time to react. I also want to make it juicier, adding sound effects, music and just overall polish.
 ## Created by
 Jacob Wiese
